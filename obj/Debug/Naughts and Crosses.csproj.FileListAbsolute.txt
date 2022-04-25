@@ -1,0 +1,8 @@
+F:\Programming\Visual Studio\Naughts and Crosses\bin\Debug\Naughts and Crosses.exe
+F:\Programming\Visual Studio\Naughts and Crosses\bin\Debug\Naughts and Crosses.pdb
+F:\Programming\Visual Studio\Naughts and Crosses\obj\Debug\Naughts and Crosses.csprojResolveAssemblyReference.cache
+F:\Programming\Visual Studio\Naughts and Crosses\obj\Debug\Naughts_and_Crosses.Properties.Resources.resources
+F:\Programming\Visual Studio\Naughts and Crosses\obj\Debug\Naughts and Crosses.csproj.GenerateResource.Cache
+F:\Programming\Visual Studio\Naughts and Crosses\obj\Debug\Naughts and Crosses.exe
+F:\Programming\Visual Studio\Naughts and Crosses\obj\Debug\Naughts and Crosses.pdb
+F:\Programming\Visual Studio\Naughts and Crosses\obj\Debug\Naughts_and_Crosses.NaughtsAndCrossesWindow.resources
